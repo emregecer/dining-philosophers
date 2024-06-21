@@ -1,2 +1,2 @@
 # dining-philosophers
-Dining philosophers solution
+Dining philosophers solution - Udemy Course
